@@ -90,7 +90,7 @@ public class pilaVector {
 
         do {
             System.out.println("\n--- Menú de Pila ---");
-            System.out.println("1. Apilar (Insertar)");
+            System.out.println("1. Apilar");
             System.out.println("2. Desapilar");
             System.out.println("3. Obtener Tope");
             System.out.println("4. Mostrar Elementos");
