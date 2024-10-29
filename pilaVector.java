@@ -82,7 +82,7 @@ public class pilaVector {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Ingrese el tamaño máximo de la pila: ");
+        System.out.print("Ingrese el tamaño de la pila: ");
         int tamaño = scanner.nextInt();
         
         pilaVector pila = new pilaVector(tamaño);
@@ -142,7 +142,7 @@ public class pilaVector {
                     pila.vaciar();
                     break;
                 case 9:
-                    System.out.println("Saliendo...");
+                    System.out.println("Chauuuu...");
                     break;
                 default:
                     System.out.println("Opción inválida. Intente de nuevo.");
